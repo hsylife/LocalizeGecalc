@@ -22,4 +22,4 @@ If you have any questions, please send me email to info@ge-nie.co.jp
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Author
-ge-nie inc.
+[ge-nie inc.](http://appstore.com/genieinc)
