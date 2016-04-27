@@ -11,7 +11,8 @@ LocalizeGecalc is an open project to localize Localizable.strings files of ge-ca
 1. Clone the repository using git.
 2. Find your language folder. If Dutch, see 'nl.Iproj'. The names are related to [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1).
 3. Edit the Localizable.strings to be better. The left sides are keys, the right sides are values. For example, "Thanks♥"="Dank je wel♥"; means "Thanks♥"→"Dank je wel♥".
-4. Make a commit, push it, and create a pull request.
+4. If there is no key, copy and edit it from ‘en.Iproj'.
+5. Make a commit, push it, and create a pull request.
 
 If your contribution has been accepted, ge-calc uses your strings.
 
